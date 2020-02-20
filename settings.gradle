@@ -1,0 +1,2 @@
+include ':app', ':unityLibrary'
+rootProject.name='ImageTarget'

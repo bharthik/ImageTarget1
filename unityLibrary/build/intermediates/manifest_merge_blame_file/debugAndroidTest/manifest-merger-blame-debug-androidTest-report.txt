@@ -1,0 +1,167 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.unity3d.player.test" >
+4
+5    <uses-sdk
+5-->E:\FaniskoSDK\ImageTarget\unityLibrary\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger689367375296869598.xml:5:5-74
+6        android:minSdkVersion="25"
+6-->E:\FaniskoSDK\ImageTarget\unityLibrary\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger689367375296869598.xml:5:15-41
+7        android:targetSdkVersion="28" />
+7-->E:\FaniskoSDK\ImageTarget\unityLibrary\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger689367375296869598.xml:5:42-71
+8
+9    <instrumentation
+9-->E:\FaniskoSDK\ImageTarget\unityLibrary\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger689367375296869598.xml:11:5-15:73
+10        android:name="android.test.InstrumentationTestRunner"
+10-->E:\FaniskoSDK\ImageTarget\unityLibrary\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger689367375296869598.xml:11:22-75
+11        android:functionalTest="false"
+11-->E:\FaniskoSDK\ImageTarget\unityLibrary\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger689367375296869598.xml:14:22-52
+12        android:handleProfiling="false"
+12-->E:\FaniskoSDK\ImageTarget\unityLibrary\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger689367375296869598.xml:13:22-53
+13        android:label="Tests for com.unity3d.player.test"
+13-->E:\FaniskoSDK\ImageTarget\unityLibrary\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger689367375296869598.xml:15:22-71
+14        android:targetPackage="com.unity3d.player.test" />
+14-->E:\FaniskoSDK\ImageTarget\unityLibrary\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger689367375296869598.xml:12:22-69
+15
+16    <uses-feature android:glEsVersion="0x00030000" />
+16-->[__tested_artifact__::unityLibrary] E:\FaniskoSDK\ImageTarget\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:13:5-54
+16-->[__tested_artifact__::unityLibrary] E:\FaniskoSDK\ImageTarget\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:13:19-51
+17
+18    <uses-permission android:name="android.permission.INTERNET" />
+18-->[__tested_artifact__::unityLibrary] E:\FaniskoSDK\ImageTarget\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:15:5-67
+18-->[__tested_artifact__::unityLibrary] E:\FaniskoSDK\ImageTarget\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:15:22-64
+19
+20    <uses-feature
+20-->[__tested_artifact__::unityLibrary] E:\FaniskoSDK\ImageTarget\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:17:5-19:36
+21        android:name="android.hardware.touchscreen"
+21-->[__tested_artifact__::unityLibrary] E:\FaniskoSDK\ImageTarget\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:18:9-52
+22        android:required="false" />
+22-->[__tested_artifact__::unityLibrary] E:\FaniskoSDK\ImageTarget\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:19:9-33
+23    <uses-feature
+23-->[__tested_artifact__::unityLibrary] E:\FaniskoSDK\ImageTarget\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:20:5-22:36
+24        android:name="android.hardware.touchscreen.multitouch"
+24-->[__tested_artifact__::unityLibrary] E:\FaniskoSDK\ImageTarget\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:21:9-63
+25        android:required="false" />
+25-->[__tested_artifact__::unityLibrary] E:\FaniskoSDK\ImageTarget\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:22:9-33
+26    <uses-feature
+26-->[__tested_artifact__::unityLibrary] E:\FaniskoSDK\ImageTarget\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:23:5-25:36
+27        android:name="android.hardware.touchscreen.multitouch.distinct"
+27-->[__tested_artifact__::unityLibrary] E:\FaniskoSDK\ImageTarget\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:24:9-72
+28        android:required="false" />
+28-->[__tested_artifact__::unityLibrary] E:\FaniskoSDK\ImageTarget\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:25:9-33
+29
+30    <uses-permission android:name="android.permission.CAMERA" />
+30-->[__tested_artifact__::unityLibrary] E:\FaniskoSDK\ImageTarget\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:27:5-65
+30-->[__tested_artifact__::unityLibrary] E:\FaniskoSDK\ImageTarget\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:27:22-62
+31
+32    <uses-feature
+32-->[__tested_artifact__::unityLibrary] E:\FaniskoSDK\ImageTarget\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:29:5-31:35
+33        android:name="android.hardware.camera.ar"
+33-->[__tested_artifact__::unityLibrary] E:\FaniskoSDK\ImageTarget\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:30:9-50
+34        android:required="true" />
+34-->[__tested_artifact__::unityLibrary] E:\FaniskoSDK\ImageTarget\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:31:9-32
+35
+36    <application android:debuggable="true" >
+36-->E:\FaniskoSDK\ImageTarget\unityLibrary\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger689367375296869598.xml:7:5-9:19
+36-->E:\FaniskoSDK\ImageTarget\unityLibrary\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger689367375296869598.xml:7:18-43
+37        <uses-library android:name="android.test.runner" />
+37-->E:\FaniskoSDK\ImageTarget\unityLibrary\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger689367375296869598.xml:8:9-60
+37-->E:\FaniskoSDK\ImageTarget\unityLibrary\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger689367375296869598.xml:8:23-57
+38
+39        <activity
+39-->[__tested_artifact__::unityLibrary] E:\FaniskoSDK\ImageTarget\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:34:9-53:20
+40            android:name="com.unity3d.player.UnityPlayerActivity"
+40-->[__tested_artifact__::unityLibrary] E:\FaniskoSDK\ImageTarget\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:35:13-66
+41            android:configChanges="mcc|mnc|locale|touchscreen|keyboard|keyboardHidden|navigation|orientation|screenLayout|uiMode|screenSize|smallestScreenSize|fontScale|layoutDirection|density"
+41-->[__tested_artifact__::unityLibrary] E:\FaniskoSDK\ImageTarget\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:36:13-194
+42            android:hardwareAccelerated="false"
+42-->[__tested_artifact__::unityLibrary] E:\FaniskoSDK\ImageTarget\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:37:13-48
+43            android:launchMode="singleTask"
+43-->[__tested_artifact__::unityLibrary] E:\FaniskoSDK\ImageTarget\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:38:13-44
+44            android:screenOrientation="fullSensor"
+44-->[__tested_artifact__::unityLibrary] E:\FaniskoSDK\ImageTarget\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:39:13-51
+45            android:theme="@style/UnityThemeSelector" >
+45-->[__tested_artifact__::unityLibrary] E:\FaniskoSDK\ImageTarget\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:40:13-54
+46            <intent-filter>
+46-->[__tested_artifact__::unityLibrary] E:\FaniskoSDK\ImageTarget\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:41:13-45:29
+47                <action android:name="android.intent.action.MAIN" />
+47-->[__tested_artifact__::unityLibrary] E:\FaniskoSDK\ImageTarget\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:42:17-69
+47-->[__tested_artifact__::unityLibrary] E:\FaniskoSDK\ImageTarget\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:42:25-66
+48
+49                <category android:name="android.intent.category.LAUNCHER" />
+49-->[__tested_artifact__::unityLibrary] E:\FaniskoSDK\ImageTarget\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:44:17-77
+49-->[__tested_artifact__::unityLibrary] E:\FaniskoSDK\ImageTarget\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:44:27-74
+50            </intent-filter>
+51
+52            <meta-data
+52-->[__tested_artifact__::unityLibrary] E:\FaniskoSDK\ImageTarget\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:47:13-49:40
+53                android:name="unityplayer.UnityActivity"
+53-->[__tested_artifact__::unityLibrary] E:\FaniskoSDK\ImageTarget\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:48:17-57
+54                android:value="true" />
+54-->[__tested_artifact__::unityLibrary] E:\FaniskoSDK\ImageTarget\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:49:17-37
+55            <meta-data
+55-->[__tested_artifact__::unityLibrary] E:\FaniskoSDK\ImageTarget\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:50:13-52:40
+56                android:name="android.notch_support"
+56-->[__tested_artifact__::unityLibrary] E:\FaniskoSDK\ImageTarget\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:51:17-53
+57                android:value="true" />
+57-->[__tested_artifact__::unityLibrary] E:\FaniskoSDK\ImageTarget\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:52:17-37
+58        </activity>
+59
+60        <meta-data
+60-->[__tested_artifact__::unityLibrary] E:\FaniskoSDK\ImageTarget\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:55:9-57:33
+61            android:name="unity.splash-mode"
+61-->[__tested_artifact__::unityLibrary] E:\FaniskoSDK\ImageTarget\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:56:13-45
+62            android:value="0" />
+62-->[__tested_artifact__::unityLibrary] E:\FaniskoSDK\ImageTarget\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:57:13-30
+63        <meta-data
+63-->[__tested_artifact__::unityLibrary] E:\FaniskoSDK\ImageTarget\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:58:9-60:36
+64            android:name="unity.splash-enable"
+64-->[__tested_artifact__::unityLibrary] E:\FaniskoSDK\ImageTarget\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:59:13-47
+65            android:value="True" />
+65-->[__tested_artifact__::unityLibrary] E:\FaniskoSDK\ImageTarget\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:60:13-33
+66        <meta-data
+66-->[__tested_artifact__::unityLibrary] E:\FaniskoSDK\ImageTarget\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:61:9-63:50
+67            android:name="notch.config"
+67-->[__tested_artifact__::unityLibrary] E:\FaniskoSDK\ImageTarget\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:62:13-40
+68            android:value="portrait|landscape" />
+68-->[__tested_artifact__::unityLibrary] E:\FaniskoSDK\ImageTarget\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:63:13-47
+69        <meta-data
+69-->[__tested_artifact__::unityLibrary] E:\FaniskoSDK\ImageTarget\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:64:9-66:68
+70            android:name="unity.build-id"
+70-->[__tested_artifact__::unityLibrary] E:\FaniskoSDK\ImageTarget\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:65:13-42
+71            android:value="544738d4-d29c-45b2-98ae-1dc0fecddccc" />
+71-->[__tested_artifact__::unityLibrary] E:\FaniskoSDK\ImageTarget\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:66:13-65
+72        <meta-data
+72-->[__tested_artifact__::unityLibrary] E:\FaniskoSDK\ImageTarget\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:67:9-69:36
+73            android:name="unityplayer.SkipPermissionsDialog"
+73-->[__tested_artifact__::unityLibrary] E:\FaniskoSDK\ImageTarget\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:68:13-61
+74            android:value="true" />
+74-->[__tested_artifact__::unityLibrary] E:\FaniskoSDK\ImageTarget\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:69:13-33
+75        <meta-data
+75-->[__tested_artifact__::unityLibrary] E:\FaniskoSDK\ImageTarget\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:70:9-72:40
+76            android:name="com.google.ar.core"
+76-->[__tested_artifact__::unityLibrary] E:\FaniskoSDK\ImageTarget\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:71:13-46
+77            android:value="required" /> <!-- The minimal version code of ARCore APK required for an app using this SDK. -->
+77-->[__tested_artifact__::unityLibrary] E:\FaniskoSDK\ImageTarget\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:72:13-37
+78        <meta-data
+78-->[:arcore_client:] C:\Users\ASUS\.gradle\caches\transforms-2\files-2.1\6a11ef0df6d3f6826ef3cf27ab6ed9b9\arcore_client\AndroidManifest.xml:33:9-35:41
+79            android:name="com.google.ar.core.min_apk_version"
+79-->[:arcore_client:] C:\Users\ASUS\.gradle\caches\transforms-2\files-2.1\6a11ef0df6d3f6826ef3cf27ab6ed9b9\arcore_client\AndroidManifest.xml:34:13-62
+80            android:value="190805000" /> <!-- This activity is critical for installing ARCore when it is not already present. -->
+80-->[:arcore_client:] C:\Users\ASUS\.gradle\caches\transforms-2\files-2.1\6a11ef0df6d3f6826ef3cf27ab6ed9b9\arcore_client\AndroidManifest.xml:35:13-38
+81        <activity
+81-->[:arcore_client:] C:\Users\ASUS\.gradle\caches\transforms-2\files-2.1\6a11ef0df6d3f6826ef3cf27ab6ed9b9\arcore_client\AndroidManifest.xml:37:9-43:80
+82            android:name="com.google.ar.core.InstallActivity"
+82-->[:arcore_client:] C:\Users\ASUS\.gradle\caches\transforms-2\files-2.1\6a11ef0df6d3f6826ef3cf27ab6ed9b9\arcore_client\AndroidManifest.xml:38:13-62
+83            android:configChanges="keyboardHidden|orientation|screenSize"
+83-->[:arcore_client:] C:\Users\ASUS\.gradle\caches\transforms-2\files-2.1\6a11ef0df6d3f6826ef3cf27ab6ed9b9\arcore_client\AndroidManifest.xml:39:13-74
+84            android:excludeFromRecents="true"
+84-->[:arcore_client:] C:\Users\ASUS\.gradle\caches\transforms-2\files-2.1\6a11ef0df6d3f6826ef3cf27ab6ed9b9\arcore_client\AndroidManifest.xml:40:13-46
+85            android:exported="false"
+85-->[:arcore_client:] C:\Users\ASUS\.gradle\caches\transforms-2\files-2.1\6a11ef0df6d3f6826ef3cf27ab6ed9b9\arcore_client\AndroidManifest.xml:41:13-37
+86            android:launchMode="singleTop"
+86-->[:arcore_client:] C:\Users\ASUS\.gradle\caches\transforms-2\files-2.1\6a11ef0df6d3f6826ef3cf27ab6ed9b9\arcore_client\AndroidManifest.xml:42:13-43
+87            android:theme="@android:style/Theme.Material.Light.Dialog.Alert" />
+87-->[:arcore_client:] C:\Users\ASUS\.gradle\caches\transforms-2\files-2.1\6a11ef0df6d3f6826ef3cf27ab6ed9b9\arcore_client\AndroidManifest.xml:43:13-77
+88    </application>
+89
+90</manifest>
